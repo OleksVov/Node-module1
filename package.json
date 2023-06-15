@@ -19,8 +19,10 @@
   },
   "homepage": "https://github.com/OleksVov/Node-module1#readme",
   "dependencies": {
+    "commander": "^10.0.1",
     "cors": "^2.8.5",
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "nanoid": "^3.3.4"
   },
   "devDependencies": {
     "nodemon": "^2.0.22"
