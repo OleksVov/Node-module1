@@ -44,3 +44,13 @@ async function invokeAction({ action, id, name, email, phone }) {
 
 invokeAction(argv);
 
+
+// const fs = require('fs')
+
+// fs.mkdir("test-add", () => {
+//   fs.writeFile('./test-add/text.txt', 'Hello, Node', () => {})
+// })
+
+// fs.unlink('./test-add/text.txt', function() {
+//   fs.rmdir('./test-add', () => {})
+// })
